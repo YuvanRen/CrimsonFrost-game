@@ -1,6 +1,6 @@
 # Crimson Mother-game
 Files for the game project I'm working on using Unreal, Maya, and Blueprint.
-This Repo is to keep track of the game development.
+This Repo is to keep track of the game's progress and development.
 
 # Description ( main idea )
 In "Crimson Mother," you awaken to a world cloaked in silence, the ground beneath you blanketed in pristine snow, painting a serene yet eerie landscape.  
