@@ -1,5 +1,5 @@
 # Crimson Mother-game
-Files for the game project I'm working on using Unreal, Maya, and Blueprint.
+Files for the game project I'm working on using Unreal, Maya, and Blueprint.  
 This Repo is to keep track of the game's progress and development.
 
 # Description ( main idea )
