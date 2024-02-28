@@ -22,7 +22,7 @@ Moreover, scattered throughout the forest are remnants of those who came before 
 ....  
 
 # Commits
-February 26, 2024 - Game blueprint done:  
+    February 26, 2024 - Game blueprint done:
                       ~ Character movement  
                       ~ Weapon/Projectile behavior  
                       ~ Physics for destroying current "enemies" (target)  
