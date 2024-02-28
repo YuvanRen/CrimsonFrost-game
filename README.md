@@ -14,10 +14,10 @@ Moreover, scattered throughout the forest are remnants of those who came before 
 ....
 
 # In progress
+      February 27 - UPDATE
       ~ Modeling new environment, the main character, NPCs, and artifacts.  
-      ~ Drawing / 3D model in progress  
-      ~ Writing speech script for each remnant    
-      ~   
+          ~~ Drawing / 3D models  
+      ~ Writing speech script for each remnant      
 
 ....  
 
