@@ -28,7 +28,8 @@ Moreover, scattered throughout the forest are remnants of those who came before 
                       ~ Physics for destroying current "enemies" (target)  
                       ~ Kill counter  
                       ~ Prototype for in-game UI and end-screen UI  
-
+    March 6, 2024 - First NPC sketch
+      
 ....
 
                       
