@@ -29,7 +29,8 @@ Moreover, scattered throughout the forest are remnants of those who came before 
                       ~ Kill counter  
                       ~ Prototype for in-game UI and end-screen UI  
     March 6, 2024 - First NPC sketch
-    ![Alt text] (file:///C:/Users/yuvan/OneDrive/Desktop/image0.jpg)
+    ![image0](https://github.com/YuvanRen/CrimsonMother-game/assets/104460732/76fb4d6b-9f5d-4dbe-bf38-a7afa02ad076)
+
 
       
 ....
